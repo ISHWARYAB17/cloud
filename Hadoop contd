@@ -1,0 +1,3 @@
+/usr/local/hadoop bin/hdfs dfs  -mkdir /user
+   -mkdir /user/ypm
+   -put /home/user/Desktop/data   user/input
